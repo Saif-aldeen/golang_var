@@ -2,6 +2,6 @@ package ccp
 
 func AddingUp(val int) int {
   
-  return val + 1
+  return val * 2
   
 }
