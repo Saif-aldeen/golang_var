@@ -1,4 +1,4 @@
-package dcc
+package golang_var
 
 
 func count(val int) int {
