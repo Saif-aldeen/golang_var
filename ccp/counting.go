@@ -1,6 +1,6 @@
 package cpp
 
-func addingUp(val int) int {
+func AddingUp(val int) int {
   
   return val + 1
   
