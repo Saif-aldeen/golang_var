@@ -8,7 +8,7 @@ import (
 func StrToInt(val string) int {
   value, err := strconv.Atoi(val)
   if err != nil {
-    fmt.Println("this is invalid entry")
+    return -1
   }else
   {
     return value
